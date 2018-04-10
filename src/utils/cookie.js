@@ -1,7 +1,6 @@
 /**
  * 获取Cookie值
  *
- * @author 792793182@qq.com 2016-01-03.
  */
 function getCookieValue(request, key) {
     var cookies = request.headers.cookie;
