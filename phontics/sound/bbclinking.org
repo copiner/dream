@@ -1,0 +1,387 @@
+* sound
+  
+** schwa  
+  1. schwa /ʃwɑ:/  /ə/
+  2. a piece of cake
+  3. It's a piece of cake     
+  4. I like a cup of tea in the morning
+  5. Could you get me a packet of biscuits
+  6. Can you give it to me
+  7. I had an apple for lunch today
+
+
+** elision
+   
+*** when a /t/ sound comes between two consonant sounds, it is often not pronounced
+
+    1. I can'(t) stand the rain
+    2. It mus(t) be time to leave
+    3. Am I the firs(t) person here
+    4. I don't want it
+    5. I mus(t) go
+
+*** when a /d/ sound comes between two consonant sounds, it is often not pronounced
+
+    1. Do you prefer your poratoes steamed or boiled    steam(ed) boil(ed)
+    2. I prefer steamed potatoes
+    3. I prefer boiled potatoes
+    4. I prefer steamed potatoes to boiled potatoes
+    5. Don't hol(d) back, say what you mean
+    6. My best frien(d) let me borrow his car
+    7. His bike roll(ed) down the hill without him
+    8. I peel(ed) my finger
+
+    
+*** At the beginning of a sentence  or clause, 'he' is pronounced /hi:/.
+
+    In the middle of a sentence or clause and ofter a consonant,
+    the /h/ is often not pronounced, /hi:/ becomes /i:/.
+    The same is true for words like 'his', 'him' and 'her'
+
+    1. He looks like he's had an accident.
+    2. I really like his cooking
+    3. We think he's left the country
+    4. They let him leave early
+    5. They offered her a promotion
+    6. I think I'll give him a ring
+
+** Catination
+   
+*** consonant to vowel linking
+
+    when a word ends in a consonant sound and the next word begin with a vowel sound,
+    the two words can link together
+    
+    1. He's holding an egg
+    2. He's in the garden
+    3. I us(ed) to believe-in Father Charistmas, but not-any more
+    4. I had to give-up jogging
+    5. He had-it-in his office
+    6. It-is-a hard boiled-egg, isn't-it
+
+*** linking r
+
+    words that spell with an 'r' at the end use the /r/ sound to link to next word
+    if that word begins with a vowel
+
+    war and peace
+    
+    1. You know I really like my mother (r) in-law
+    2. Have you been to the Tower (r) of London?
+    3. You've get something in your (f) eye
+    4. Never (r) again
+    5. Can somebody call for-an ambulance
+    
+   
+*** linking /w/
+
+    when a word ends in /u:/ and the next word begins with a vowel sound,
+    the two  words can link together with a small /w/ sound
+
+    The shoe (w) is on the wrong foot
+    
+    1. When do (w) I have to be there
+    2. I haven't got a clue (w) at-all
+    3. That glue-is really strong
+    4. I really can't do (w) it
+    5. The shoe-is on the wrong foot
+    6. I must put my other shoe (w) on
+       
+*** linking j
+
+    when a word ends in  /ɑɪ/, /i:/, /eɪ/ or /ɔɪ/ and the next word
+    begins with a vowel,
+    a small /j/ sound can link the words together
+
+    1. I (j) always have some breakfast
+    2. I always go to the gym in the morning
+    3. I always drink a glass of warm water when I wake up
+    4. When I go on holiday, I just want to lie (j) on the beach
+    5. I (j) ate the whole cake in one go
+    6. It was too high (j) up for me to reach
+    7. Now you see (j) it
+    8. The (j) end of the film was brilliant
+
+** gemination or twining /ˌʤemɪ'neɪʃən/
+   
+*** gemination s
+
+    when a word ends in /s/ and the next word begins with /s/,
+    the two sounds come together to make a slightly longer /s:/ sound.
+    
+    1. He looks sad
+    2. She's silly
+    3. He's sitting over there
+    4. Can you come this Saturday
+    5. That's so unfair
+    6. He really is stupid
+
+*** gemination t
+
+    when a word ends in /t/ and there's a vowel sound before the /t/
+    the next begins with /t/, the two /t/ sounds can join together
+    to create one slightly stronger /t:/
+
+    1. It takes two to tango
+    2. It took him twenty years to get to the top
+    3. You don't have to cheat to pass the test
+    4. You were right to be upset
+    5. We took the overnight train to Venice
+
+** intrusion /ɪn'tru:ʒn/
+   
+*** intrusive r
+
+    when a word ends in an /ɔ:/ sound and the next word begins with a vowel sound,
+    an /r/ sound is sometimes added, even if there is no /r/ in the spelling
+
+    1. I think law and order is very important  /lɔ:/ /r/ /ənd/ /ɔ:də(r)/
+    2. Can you drew (r) a circle freehand
+    3. My dog hurt its paw (r) on some broken glass
+    4. There was a flaw (r) in the argument
+    5. I saw (r) a good film last night
+
+** plosives /d/ /b/ /t/ /p/ /k/ /g/
+   
+*** unreleased stop
+
+    when a plosive (/d/ /b/ /t/ /p/ /k/ /g/) comes before another consonant sound,
+    the plosive is not fully pronounced as the release of the blocked air is not heard
+
+    1. I'd like to visit Iceland
+    2. I'd like to visit South America
+    3. How about a quick chat
+    4. You should thank her
+    5. It was a sad time in his life
+    6. Why don't you sit down
+    7. I hurt my finger
+
+** assimilation
+
+*** assimilation t and p
+
+    when a word ends in /t/ and the next word begins with /p/,
+    the two sounds come together with the /t/ changing to /p/
+
+    1. a white piece of paper
+    2. There are lots of great parks in London
+    3. I love split pea soup
+    4. I hate potatoes
+    5. My mate picked us up from the airport
+    6. I think I have a split personality
+
+       
+*** assimilation of n followed by p
+
+    when a word ends in /n/ and the next word begins with /p/, /b/, /w/ or /m/,
+    the /n/ may change to /m/
+
+    1. Green Park
+    2. I own ten pairs of socks
+    3. He didn't do it on purpose
+    4. I would love to live in Paris
+    5. Can you come on Wednesday
+    6. It is on Buckingham Palace Road
+   
+*** assimilation of nd
+    
+    elision and assimilation, /nd/ changes to /m/ before the
+    consonants /b/, /p/, /m/ or /w/
+
+    when a /d/ sound comes between two consonant sounds,
+    it is often not pronounced,
+
+    when a word ends in /n/ and the next word begins with /p/, /b/, /w/ or /m/,
+    the /n/ may change to /m/
+
+    sandwich  /'sændwɪʧ/ ->  /'sænwɪʧ/ ->  /'sæmwɪʧ/
+    
+    1. It's an egg sandwich  /'sænwɪʧ/
+    2. My grandparents have been married for 50 years /'grændpeərənts/ -> /'græmpeərənts/
+    3. I got a standby ticket                         /'stændbaɪ/ -> /'stæmbaɪ/
+    4. The band played util midnight                  /bænd/ /pleɪd/ -> /bæm/ /pleɪd/
+    5. I left my handbag on the train                 /'hændbæg/ ->  /'hæmbæg/
+    6. It was hand made, just for me                  /hænd/ -> /hæm/
+
+*** assimilation of d or g
+
+    when a word ends in /d/ and the next word begins with /k/ or /g/,
+    the /d/ can change to /g/
+
+    1. bad girl  good girl
+    2. He's a really good cook
+    3. Last night we had guests for dinner
+    4. Can you print out hard copy
+    5. I'd love to walk down the red carpet one day
+
+*** assimilation of s
+
+    when a word ends in /s/ and the next begins with /j/ or /ʃ/,
+    the /s/ can change to /ʃ/
+    /s/ + /j/ -> /ʃj/,     /s/ + /ʃ/ -> /ʃʃ/
+
+    when a /t/ sound comes between two consonant sounds,
+    it is often not pronounced
+
+    1. Bless you
+    2. Can you jus(t) shut the door, please  /ʃʌt/
+    3. This yacht is beautiful               /jɒt/
+    4. Don't worry, that's usual             /ðæts/ /'ju:ʒuəl/ ->  /ðætʃ/ /'ju:ʒuəl/
+    5. He always makes you fell good
+    6. It's jus(t) yoghurt
+
+*** assimilation of d and j
+
+    when a word ends in vowel sound then /d/ (vowel + d) and the next word begins with /j/,
+    the /d/ and /j/ can join together and change to /ʤ/
+
+    1. Would you do me a favour                         /wʊd ju:/ -> /wʊʤu:/
+    2. I'm sad you decided to quit
+    3. Could you get here by midnight
+    4. Should you see him, can you give him a message
+    5. I don't think the gold you bought was real
+
+       
+*** assimilation d to b
+
+    when a word ends in vowel sound and /d/ and the next word starts with /b/,
+    the /d/ changes to /b/ and merges with the following /b/
+    
+    1. speed boat
+    2. My son is a really good boy
+    3. I'm sorry if I was rude before
+    4. My car had to be towed back to garage
+    5. You should buy him a present
+    6. He said he'd buy me a boat
+
+*** assimilation of t followed by k
+
+    If the sound /t/ comes after a vowel and before /k/, it can change to /k/ (/t/ becomes /k/)
+
+    1. Credit card
+    2. Don't let it get cold
+    3. You have to do it quickly
+    4. There's not short cut to learning a language
+    5. I don't like that cake
+
+*** assimilation of t followed by j
+
+    If a word ends in the sound /t/ and the next word begins with /j/,
+    both sounds may come together to make /ʧ/. (/t/ + /j/ = /ʧ/)
+
+    1. It's nice to meet you
+    2. That shirt won't suit you
+    3. Don't you want to come to party
+    4. I bet your boss doesn't know
+    5. Can I get you anything
+    6. You can't always get what you want
+       
+** have to
+
+   when the verb 'have to' means an obligation,
+   'have' is pronounced /hæf/ and 'to' is pronounced /tə/
+
+   1. I have to get up in the morning at 6 a.m
+   2. They have to be there by 10
+   3. We have to find another flat
+   4. You have to tell me the gossip
+   5. I always have to take the train
+
+
+   
+** and /ənd/, strong form /ænd/
+
+   when 'and' is an unstressed conjunction,
+   the /d/ sound at the end is often not pronounced and
+   the /æ/ becomes /ə/ or is not pronounced at all
+
+   /ən/ /n/
+
+   1. Fish and chips
+   2. I'm going to go and get the shopping
+   3. Apples and oranges are my favourite fruits
+   4. I've been thinking and thinking but I can't decide
+   5. We went for a coffee and something to eat
+
+** weak forms
+
+*** was and were
+
+    was /wəz/     strong form /wɒz/
+    were /wə(r)/  strong form /wɜ:(r)/
+
+    when 'was' and 'were' are unstressed they are pronounced with schwa as /wəz/ and /wə/
+
+    1. At 9 o'clock last night I was watching a movie
+    2. I was invited to a dinner at my friend's house
+    3. I was laying in bed
+    4. I was out dreaking
+    5. You were thinking I was going to have an accident
+    6. I was playing football
+    7. I was there when it happened
+    8. We were delighted with the results
+    9. We were having a good time until it rained
+    10. He was feeling much better last night
+
+*** can /kæn/
+
+    when the modal auxiliary 'can' is not stressed,
+    the pronunciation changes from /kæn/ to /kən/ (also written as /kn/)
+
+    1. I can speak two languages
+    2. Can you help me bring in the shoping, please
+    3. I can swim further than I can run
+    4. You can succeed if you work hard
+    5. How far can you throw a tennis ball
+       
+
+*** the /ðə; ði/  strong form /ði:/
+
+   when unstressed, the pronunciation of 'the' before a consonant sound is /ðə/.
+   Before a vowel sound it's /ði:/
+
+   linking j
+   I prefer the blue one to the (j) orange one
+    
+   1. I prefer the blue one to the orange one
+   2. In a restaurant, I always order the apple pie
+   3. I think the autumn is the best time of year
+   4. The earlier I get up, the happier I am
+   5. It's the one over there
+
+*** been(be) /bi:n/
+
+    when the auxiliary 'been' is unstressed,
+    its pronunciation changes from /bi:n/ to / bɪn/
+
+    1. been  bean
+    2. I have been in London seven years
+    3. How long've you been waiting
+    4. I've been working here for several years
+    5. It's been years since I went to the cinema
+
+*** from /frəm/ strong form /frɒm/
+
+    when 'from' is in the middle of a sentence and not stressed,
+    it is often pronounced in its weak form: /frəm/
+
+    1. I'm Amy from London
+    2. I read the book cover to cover
+    3. The nearest post office is not far from here
+    4. I borrowed it from my brother
+    5. I think I've learnt from my mistakes
+
+*** contracted /kən'træktɪd/ 'have'
+
+   /həv; əv/  strong form /hæv/
+
+   when the auxiliary /ɔ:g'zɪliəri/ 'have' is contracted after a
+   consonant sound, it is pronounced /əv/
+
+   1. If my alarm hadn't gone off this morning, I'd've missed the bus
+   2. I'd've been late for work
+   3. Your parcel should've been delivered yesterday
+   4. I would've done it differently
+   5. We might've made a mistake
+   6. The police've arrived
+
