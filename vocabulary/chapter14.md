@@ -92,5 +92,5 @@ a transit lounge
 a transit visa
 in transit
 
-diliver dilivery convey speed velocity swift
+deliver delivery convey speed velocity swift
 ```
